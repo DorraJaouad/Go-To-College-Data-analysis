@@ -2,7 +2,7 @@
 Forecasting the decision to go to college
 
 ##Introduction
-This project was made in order to forecast the decision of youth in the US about pursuing studies in Universities. I used High school student data related 
+This project was made for forecasting the decision of youth in the US about pursuing studies in Universities. I used High school student data related 
 to the decision to go to college in order to create a mathematical approach to forecast the decision of a student to go to college and that will be based 
 on quantitative and qualitative metrics ( e.g: gender, parent salary ... )
 
